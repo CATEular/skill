@@ -1,0 +1,17 @@
+# Machine-specific configuration and generated files
+**/config.local.json
+.env
+.env.*
+!.env.example
+**/__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.agents/
+.codex/
+.openai/
+AGENTS.md
+CLAUDE.md
